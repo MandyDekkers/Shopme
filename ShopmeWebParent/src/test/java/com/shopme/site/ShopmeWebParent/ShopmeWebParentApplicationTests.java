@@ -1,10 +1,10 @@
-package com.shopme.admin;
+package com.shopme.site.ShopmeWebParent;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ShopmeBackEndApplicationTests {
+class ShopmeWebParentApplicationTests {
 
 	@Test
 	void contextLoads() {
